@@ -1,0 +1,18 @@
+.history{
+    border-radius: 20px;
+    background-color: #7e81b9;
+    width: 100%;
+    padding: 3%;
+    min-height:  80vh;
+    margin-bottom: 2%;
+    box-shadow: 0 0 10px #757575;
+    color: white;
+}
+h2{
+    font: 36pt "Montserrat Black";
+    margin-bottom: 3%;
+}
+.history p{
+    font: 18pt "Montserrat Medium";
+    margin-bottom: 1%;
+}

@@ -1,0 +1,16 @@
+.partners{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.partner{
+    width: 300px;
+    margin-bottom: 10%;
+}
+.partner:hover{
+    position: relative;
+    top:-10px
+}
+.partner img{
+    width: 100%;
+}
