@@ -10,13 +10,13 @@ const right = size*6
 btn1.addEventListener('click',function(){
     clearInterval(moveAuto)
     swipe(1)
-    moveAuto = setInterval(swipe,2000, -1)
+    moveAuto = setInterval(swipe,4000, -1)
 
 })
 btn2.addEventListener('click',function(){
     clearInterval(moveAuto)
     swipe(-1)
-    moveAuto = setInterval(swipe,2000, -1)
+    moveAuto = setInterval(swipe,4000, -1)
 })
 
 function swipe(sign){
